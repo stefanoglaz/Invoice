@@ -61,3 +61,4 @@ public class AuthorizationConfig extends WebSecurityConfigurerAdapter {
         return NoOpPasswordEncoder.getInstance();
     }
 }
+//Teste git!!!
